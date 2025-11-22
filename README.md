@@ -1,2 +1,0 @@
-# technical-portfolio
-technical-portfolio
